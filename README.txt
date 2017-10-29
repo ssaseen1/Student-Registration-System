@@ -1,7 +1,3 @@
-Assignment - 2
-Shali Saseendran
------------------
-
 README file:
 ------------
 Assuming you are in the directory containing this README:
